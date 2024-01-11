@@ -1,0 +1,51 @@
+{
+  "persons": [
+    {
+      "name": "Parto Hellas",
+      "number": "040-123456",
+      "id": 11
+    },
+    {
+      "name": "Arto Hellas",
+      "number": "040-123456",
+      "id": 1
+    },
+    {
+      "name": "Ada Lovelace",
+      "number": "39-44-5323523",
+      "id": 2
+    }
+  ],
+  "notes": [
+    {
+      "id": 1,
+      "content": "HTML is easy",
+      "important": true
+    },
+    {
+      "id": 2,
+      "content": "Browser can execute only JavaScript",
+      "important": false
+    },
+    {
+      "id": 3,
+      "content": "GET and POST are the most important methods of HTTP protocol",
+      "important": true
+    },
+    {
+      "id": "2a0e",
+      "content": "Get good, noob",
+      "important": false
+    },
+    {
+      "id": "1227",
+      "content": "Get Milk",
+      "important": false
+    },
+    {
+      "id": "d262",
+      "content": "asd",
+      "important": false
+    }
+  ]
+}
