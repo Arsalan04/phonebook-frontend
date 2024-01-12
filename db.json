@@ -1,11 +1,6 @@
 {
   "persons": [
     {
-      "name": "Parto Hellas",
-      "number": "040-123456",
-      "id": 11
-    },
-    {
       "name": "Arto Hellas",
       "number": "040-123456",
       "id": 1
@@ -14,28 +9,43 @@
       "name": "Ada Lovelace",
       "number": "39-44-5323523",
       "id": 2
+    },
+    {
+      "id": "dc52",
+      "name": "a",
+      "number": "a"
+    },
+    {
+      "id": "8ac1",
+      "name": "aaaa",
+      "number": "a"
+    },
+    {
+      "id": "6b1d",
+      "name": "ff",
+      "number": "ff"
     }
   ],
   "notes": [
     {
-      "id": 1,
+      "id": "1",
       "content": "HTML is easy",
-      "important": true
-    },
-    {
-      "id": 2,
-      "content": "Browser can execute only JavaScript",
       "important": false
     },
     {
-      "id": 3,
-      "content": "GET and POST are the most important methods of HTTP protocol",
+      "id": "2",
+      "content": "Browser can execute only JavaScript",
       "important": true
+    },
+    {
+      "id": "3",
+      "content": "GET and POST are the most important methods of HTTP protocol",
+      "important": false
     },
     {
       "id": "2a0e",
       "content": "Get good, noob",
-      "important": false
+      "important": true
     },
     {
       "id": "1227",
@@ -45,6 +55,11 @@
     {
       "id": "d262",
       "content": "asd",
+      "important": true
+    },
+    {
+      "id": "9f3f",
+      "content": "fdsa",
       "important": false
     }
   ]
